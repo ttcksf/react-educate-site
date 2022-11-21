@@ -15,6 +15,7 @@
 header {
   background-color: rgba(255, 255, 255, 0.2);
   margin: 0 30px;
+  position: relative;
 }
 header ul {
   padding: 30px 20px;
@@ -60,7 +61,8 @@ header ul li a:hover {
     color: var(--fontNormal);
     position: absolute;
     right: 50px;
-    top: 20px;
+    top: -20px;
+    font-size: 30px;
   }
   .mobile-nav {
     position: absolute;

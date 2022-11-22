@@ -12,6 +12,7 @@
 }
 .aboutHome .right {
   padding: 80px 50px;
+  background-color: #fff;
 }
 .aboutHome .items {
   margin-top: 50px;
@@ -24,6 +25,7 @@
 }
 .aboutHome .img {
   width: 200px;
+  margin-right: 16px;
 }
 .aboutHome img {
   width: 70px;

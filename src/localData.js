@@ -2,20 +2,20 @@ export const homeAbout = [
   {
     id: 1,
     cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
-    title: "Online Courses",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    title: "オンライン学習",
+    desc: "オンラインにて動画、テキスト、作業会でプログラミングを習得します。カリキュラムは全てオーダーメイドなので初めての方も経験者の方も参加頂けます。",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/diploma.png",
-    title: "Earn A Certificates",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    title: "証明書を取得",
+    desc: "コミュニティ内で新しいサービスが立ち上げた際に証明書を発行するシステムを導入。「その時その場所で参加していた」ことを証明したり経歴に反映することができます。",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/athlete.png",
-    title: "Learn with Expert",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    title: "多種多様なメンバー",
+    desc: "エンジニアだけでなく様々な業界、職種にてメンバーは構成されています。IT関係だけに止まらない交流を約束します。",
   },
 ];
 export const aboutWrapper = [

@@ -60,7 +60,7 @@ header ul li a:hover {
     background: none;
     color: var(--fontNormal);
     position: absolute;
-    right: 50px;
+    right: 0px;
     top: -20px;
     font-size: 30px;
   }

@@ -25,8 +25,8 @@ const CoursesCard = () => {
                     <i className="fa fa-star"></i>
                     <label htmlFor="">(5.0)</label>
                   </div> */}
-                  {/* <div className="details">
-                    {val.courseTeacher.map((detail) => (
+                  <div className="details">
+                    {/* {val.courseTeacher.map((detail) => (
                       <>
                         <div className="box">
                           <div className="detailImg">
@@ -38,15 +38,15 @@ const CoursesCard = () => {
                         </div>
                         <span>{detail.totalTime}</span>
                       </>
-                    ))}
-                  </div> */}
+                    ))} */}
+                  </div>
                 </div>
               </div>
-              {/* <div className="price">
+              <div className="price">
                 <h3>
                   {val.priceAll} / {val.pricePer}
                 </h3>
-              </div> */}
+              </div>
               <div className="margin2"></div>
               <button className="outline-btn">今すぐ見る</button>
             </div>

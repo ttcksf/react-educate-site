@@ -23,24 +23,24 @@ export const aboutWrapper = [
     cover:
       "https://img.icons8.com/external-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto/80/ffffff/external-graduation-education-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto.png",
     data: "3,000",
-    title: "SUCCESS STORIES",
+    title: "学習できる総時間",
   },
 
   {
     cover: "https://img.icons8.com/ios/80/ffffff/athlete.png",
-    data: "320",
-    title: "TRUSTED TUTORS",
+    data: "12",
+    title: "取り扱うジャンル数",
   },
   {
     cover:
       "https://img.icons8.com/external-outline-icons-maxicons/80/ffffff/external-calender-insurance-outline-outline-icons-maxicons.png",
     data: "1,000",
-    title: "SCHEDULES",
+    title: "在籍できる総日数",
   },
   {
     cover: "https://img.icons8.com/ios/80/ffffff/macbook-idea--v3.png",
-    data: "587",
-    title: "COURSES",
+    data: "50",
+    title: "平均講座数",
   },
 ];
 export const coursesCard = [
@@ -51,12 +51,12 @@ export const coursesCard = [
     courseTeacher: [
       {
         detailCover: "./images/back.jpg",
-        name: "by John Smith",
-        totalTime: "50 lectures (190 hrs)",
+        name: "by ゆるグラ",
+        totalTime: "190時間",
       },
     ],
-    priceAll: "$100 All Course",
-    pricePer: "$15 per month",
+    priceAll: "980円",
+    pricePer: "月",
   },
   {
     id: 2,
@@ -65,12 +65,12 @@ export const coursesCard = [
     courseTeacher: [
       {
         detailCover: "./images/back.jpg",
-        name: "by Ram Gurung",
-        totalTime: "30 lectures (125 hrs)",
+        name: "by ゆるグラ",
+        totalTime: "125時間",
       },
     ],
-    priceAll: "$200 All Course",
-    pricePer: "$25 per month",
+    priceAll: "980円",
+    pricePer: "月",
   },
   {
     id: 3,
@@ -79,12 +79,12 @@ export const coursesCard = [
     courseTeacher: [
       {
         detailCover: "./images/back.jpg",
-        name: "by Saroj Nepal",
-        totalTime: "50 lectures (50 hrs)",
+        name: "by ゆるグラ",
+        totalTime: "200時間",
       },
     ],
-    priceAll: "$50 All Course",
-    pricePer: "$5 per month",
+    priceAll: "5,000円",
+    pricePer: "月",
   },
   {
     id: 4,
@@ -93,12 +93,12 @@ export const coursesCard = [
     courseTeacher: [
       {
         detailCover: "./images/back.jpg",
-        name: "by Prabin Thapa Mager",
-        totalTime: "20 lectures (20 hrs)",
+        name: "by ゆるグラ",
+        totalTime: "230時間",
       },
     ],
-    priceAll: "$30 All Course",
-    pricePer: "$3 per month",
+    priceAll: "5,000円",
+    pricePer: "月",
   },
   {
     id: 5,
@@ -107,12 +107,12 @@ export const coursesCard = [
     courseTeacher: [
       {
         detailCover: "./images/back.jpg",
-        name: "by Sunil Bishowkaram",
-        totalTime: "100 lectures (150 hrs)",
+        name: "by ゆるグラ",
+        totalTime: "150時間",
       },
     ],
-    priceAll: "$300 All Course",
-    pricePer: "$30 per month",
+    priceAll: "5,000円",
+    pricePer: "月",
   },
   {
     id: 6,
@@ -121,12 +121,12 @@ export const coursesCard = [
     courseTeacher: [
       {
         detailCover: "./images/back.jpg",
-        name: "by Sunil Bishowkaram",
-        totalTime: "200 lectures (300 hrs)",
+        name: "by ゆるグラ",
+        totalTime: "90時間",
       },
     ],
-    priceAll: "$500 All Course",
-    pricePer: "$80 per month",
+    priceAll: "1,480円",
+    pricePer: "月",
   },
   {
     id: 7,
@@ -135,12 +135,12 @@ export const coursesCard = [
     courseTeacher: [
       {
         detailCover: "./images/back.jpg",
-        name: "by Price",
-        totalTime: "20 lectures (50 hrs)",
+        name: "by ゆるグラ",
+        totalTime: "50時間",
       },
     ],
-    priceAll: "$20 All Course",
-    pricePer: "$2 per month",
+    priceAll: "980円",
+    pricePer: "月",
   },
   {
     id: 8,
@@ -149,12 +149,12 @@ export const coursesCard = [
     courseTeacher: [
       {
         detailCover: "./images/back.jpg",
-        name: "by Petter",
-        totalTime: "80 lectures (200 hrs)",
+        name: "by ゆるグラ",
+        totalTime: "200時間",
       },
     ],
-    priceAll: "$200 All Course",
-    pricePer: "$40 per month",
+    priceAll: "5,000円",
+    pricePer: "月",
   },
   {
     id: 9,
@@ -163,86 +163,86 @@ export const coursesCard = [
     courseTeacher: [
       {
         detailCover: "./images/back.jpg",
-        name: "by Petter",
-        totalTime: "50 lectures (50 hrs)",
+        name: "by ゆるグラ",
+        totalTime: "100時間",
       },
     ],
-    priceAll: "$20 All Course",
-    pricePer: "$3 per month",
+    priceAll: "980円",
+    pricePer: "月",
   },
 ];
 export const online = [
   {
     cover: "./images/courses/online/o1.png",
     hoverCover: "./images/courses/online/o1.1.png",
-    courseName: "UI/UX Design Courses",
-    course: "25 Courses",
+    courseName: "UI/UXデザイン",
+    course: "25講座",
   },
   {
     cover: "./images/courses/online/o2.png",
     hoverCover: "./images/courses/online/o2.1.png",
-    courseName: "Art & Design",
-    course: "25 Courses",
+    courseName: "アートデザイン",
+    course: "25講座",
   },
   {
     cover: "./images/courses/online/o3.png",
     hoverCover: "./images/courses/online/o3.1.png",
-    courseName: "Computer Science",
-    course: "10 Courses",
+    courseName: "コンピューターサイエンス",
+    course: "10講座",
   },
   {
     cover: "./images/courses/online/o4.png",
     hoverCover: "./images/courses/online/o4.1.png",
-    courseName: "History & Archeologic",
-    course: "15 Courses",
+    courseName: "歴史",
+    course: "15講座",
   },
   {
     cover: "./images/courses/online/o5.png",
     hoverCover: "./images/courses/online/o5.1.png",
-    courseName: "Software Engineering",
-    course: "30 Courses",
+    courseName: "ソフトウェア基礎",
+    course: "30講座",
   },
   {
     cover: "./images/courses/online/o6.png",
     hoverCover: "./images/courses/online/o6.1.png",
-    courseName: "Information Software",
-    course: "60 Courses",
+    courseName: "情報基礎",
+    course: "60講座",
   },
   {
     cover: "./images/courses/online/o7.png",
     hoverCover: "./images/courses/online/o7.1.png",
-    courseName: "Health & Fitness",
-    course: "10 Courses",
+    courseName: "健康・ヘルスケア",
+    course: "10講座",
   },
   {
     cover: "./images/courses/online/o8.png",
     hoverCover: "./images/courses/online/o8.1.png",
-    courseName: "Marketing",
-    course: "30 Courses",
+    courseName: "マーケティング",
+    course: "30講座",
   },
   {
     cover: "./images/courses/online/o9.png",
     hoverCover: "./images/courses/online/o9.1.png",
-    courseName: "Graphic Design",
-    course: "80 Courses",
+    courseName: "グラフィック",
+    course: "8講座",
   },
   {
     cover: "./images/courses/online/o10.png",
     hoverCover: "./images/courses/online/o10.1.png",
-    courseName: "Music",
-    course: "120 Courses",
+    courseName: "音楽",
+    course: "8講座",
   },
   {
     cover: "./images/courses/online/o11.png",
     hoverCover: "./images/courses/online/o11.1.png",
-    courseName: "Business Administration",
-    course: "17 Courses",
+    courseName: "経営",
+    course: "17講座",
   },
   {
     cover: "./images/courses/online/o12.png",
     hoverCover: "./images/courses/online/o12.1.png",
-    courseName: "Web Management",
-    course: "17 Courses",
+    courseName: "Web管理",
+    course: "17講座",
   },
 ];
 export const team = [

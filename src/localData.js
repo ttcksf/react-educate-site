@@ -289,25 +289,25 @@ export const team = [
 ];
 export const price = [
   {
-    name: "BASIC PLAN",
-    price: "49K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    name: "フリー",
+    price: "0",
+    desc: "LINEオープンチャットにて自由に交流しながら、学びたいスキルを学んでいきます。個別の相談は運営と別途ビデオ面談で会話して頂くことができます。",
   },
   {
-    name: "BEGINNER PLAN",
-    price: "79K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    name: "ベーシック",
+    price: "2,500",
+    desc: "運営メンバーにメンタリングと質問回答を依頼することができるようになります。フリープランより回答を確実にもらうことができ、個別の質問まで行うことができます。",
   },
   {
-    name: "PREMIUM PLAN",
-    price: "109k",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    name: "アドバンス",
+    price: "5,000",
+    desc: "UdemyやTechpitなどの学習サービス、AWSや GCPなどのサーバーを共同利用することができます。学習や個人開発にかかる費用をシェアすることで割安にプログラミングを楽しむことができます。",
   },
-  {
-    name: "ULTIMATE PLAN",
-    price: "149K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-  },
+  // {
+  //   name: "ULTIMATE PLAN",
+  //   price: "149K",
+  //   desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+  // },
 ];
 export const faq = [
   {

@@ -51,12 +51,12 @@ export const coursesCard = [
     courseTeacher: [
       {
         detailCover: "./images/back.jpg",
-        name: "by John Smith",
-        totalTime: "50 lectures (190 hrs)",
+        name: "by ゆるグラ",
+        totalTime: "190時間",
       },
     ],
-    priceAll: "$100 All Course",
-    pricePer: "$15 per month",
+    priceAll: "980円",
+    pricePer: "月",
   },
   {
     id: 2,
@@ -65,12 +65,12 @@ export const coursesCard = [
     courseTeacher: [
       {
         detailCover: "./images/back.jpg",
-        name: "by Ram Gurung",
-        totalTime: "30 lectures (125 hrs)",
+        name: "by ゆるグラ",
+        totalTime: "125時間",
       },
     ],
-    priceAll: "$200 All Course",
-    pricePer: "$25 per month",
+    priceAll: "980円",
+    pricePer: "月",
   },
   {
     id: 3,
@@ -79,12 +79,12 @@ export const coursesCard = [
     courseTeacher: [
       {
         detailCover: "./images/back.jpg",
-        name: "by Saroj Nepal",
-        totalTime: "50 lectures (50 hrs)",
+        name: "by ゆるグラ",
+        totalTime: "200時間",
       },
     ],
-    priceAll: "$50 All Course",
-    pricePer: "$5 per month",
+    priceAll: "5,000円",
+    pricePer: "月",
   },
   {
     id: 4,
@@ -93,12 +93,12 @@ export const coursesCard = [
     courseTeacher: [
       {
         detailCover: "./images/back.jpg",
-        name: "by Prabin Thapa Mager",
-        totalTime: "20 lectures (20 hrs)",
+        name: "by ゆるグラ",
+        totalTime: "230時間",
       },
     ],
-    priceAll: "$30 All Course",
-    pricePer: "$3 per month",
+    priceAll: "5,000円",
+    pricePer: "月",
   },
   {
     id: 5,
@@ -107,12 +107,12 @@ export const coursesCard = [
     courseTeacher: [
       {
         detailCover: "./images/back.jpg",
-        name: "by Sunil Bishowkaram",
-        totalTime: "100 lectures (150 hrs)",
+        name: "by ゆるグラ",
+        totalTime: "150時間",
       },
     ],
-    priceAll: "$300 All Course",
-    pricePer: "$30 per month",
+    priceAll: "5,000円",
+    pricePer: "月",
   },
   {
     id: 6,
@@ -121,12 +121,12 @@ export const coursesCard = [
     courseTeacher: [
       {
         detailCover: "./images/back.jpg",
-        name: "by Sunil Bishowkaram",
-        totalTime: "200 lectures (300 hrs)",
+        name: "by ゆるグラ",
+        totalTime: "90時間",
       },
     ],
-    priceAll: "$500 All Course",
-    pricePer: "$80 per month",
+    priceAll: "1,480円",
+    pricePer: "月",
   },
   {
     id: 7,
@@ -135,12 +135,12 @@ export const coursesCard = [
     courseTeacher: [
       {
         detailCover: "./images/back.jpg",
-        name: "by Price",
-        totalTime: "20 lectures (50 hrs)",
+        name: "by ゆるグラ",
+        totalTime: "50時間",
       },
     ],
-    priceAll: "$20 All Course",
-    pricePer: "$2 per month",
+    priceAll: "980円",
+    pricePer: "月",
   },
   {
     id: 8,
@@ -149,12 +149,12 @@ export const coursesCard = [
     courseTeacher: [
       {
         detailCover: "./images/back.jpg",
-        name: "by Petter",
-        totalTime: "80 lectures (200 hrs)",
+        name: "by ゆるグラ",
+        totalTime: "200時間",
       },
     ],
-    priceAll: "$200 All Course",
-    pricePer: "$40 per month",
+    priceAll: "5,000円",
+    pricePer: "月",
   },
   {
     id: 9,
@@ -163,12 +163,12 @@ export const coursesCard = [
     courseTeacher: [
       {
         detailCover: "./images/back.jpg",
-        name: "by Petter",
-        totalTime: "50 lectures (50 hrs)",
+        name: "by ゆるグラ",
+        totalTime: "100時間",
       },
     ],
-    priceAll: "$20 All Course",
-    pricePer: "$3 per month",
+    priceAll: "980円",
+    pricePer: "月",
   },
 ];
 export const online = [

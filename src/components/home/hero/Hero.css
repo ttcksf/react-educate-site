@@ -13,7 +13,7 @@
   color: var(--fontNormal);
 }
 .hero .row {
-  text-shadow: 1px 2px 3px #808080;
+  text-shadow: 1px 2px 3px var(--fontLight);
 }
 .hero #heading h3 {
   color: var(--fontNormal);

@@ -44,7 +44,7 @@
 .coursesCard .details .box {
   display: flex;
   align-items: center;
-  color: #dcdcdc;
+  color: var(--fontLight);
 }
 .coursesCard .details span {
   color: var(--mainColor);

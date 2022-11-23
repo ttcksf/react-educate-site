@@ -7,7 +7,7 @@ const OnlineCourses = () => {
     <>
       <section className="online">
         <div className="container">
-          <Title subtitle="ジャンル" title="ゆるグラで体験できるジャンル" />
+          <Title subtitle="genre" title="ゆるグラで体験できるジャンル" />
           <div className="content grid3">
             {online.map((val) => (
               <div className="box">

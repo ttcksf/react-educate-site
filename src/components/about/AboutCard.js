@@ -13,7 +13,7 @@ const AboutCard = () => {
             <img src="./images/about.jpg" />
           </div>
           <div className="right row">
-            <Title subtitle="一緒に勉強しよう！" title="ゆるグラの特徴" />
+            <Title subtitle="What's Yurugura?" title="ゆるグラの特徴" />
             <div className="items">
               {homeAbout.map((val) => (
                 <div className="item flexSB">

@@ -4,6 +4,7 @@
   box-sizing: border-box;
   --mainColor: #ff9966;
   --fontNormal: #fff;
+  --fontLight: #808080;
 }
 body {
   margin: 0;
@@ -117,13 +118,13 @@ p {
 .back h1 {
   font-size: 100px;
   font-weight: 400;
-  text-shadow: 1px 2px 3px #808080;
+  text-shadow: 1px 2px 3px var(--fontLight);
 }
 .back h2 {
   font-weight: 500;
   font-size: 17px;
   text-transform: uppercase;
-  text-shadow: 1px 2px 3px #808080;
+  text-shadow: 1px 2px 3px var(--fontLight);
 }
 .margin {
   margin-top: 40.3%;

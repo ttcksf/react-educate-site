@@ -29,7 +29,7 @@
 }
 .testimonial p {
   margin-top: 20px;
-  color: #808080;
+  color: var(--fontLight);
   transition: 0.5s;
 }
 .testimonial .items:hover {

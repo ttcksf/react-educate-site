@@ -27,7 +27,7 @@ const Header = () => {
               <Link to="/team">運営</Link>
             </li>
             <li>
-              <Link to="/pricing">プラン</Link>
+              <Link to="/price">プラン</Link>
             </li>
             <li>
               <Link to="/journal">お知らせ</Link>

@@ -4,6 +4,7 @@ import About from "./components/about/About";
 import CourseHome from "./components/allcourses/CourseHome";
 import Header from "./components/common/heading/Header";
 import Home from "./components/home/Home";
+import Price from "./components/price/Price";
 import Team from "./components/team/Team";
 
 const App = () => {
@@ -16,6 +17,7 @@ const App = () => {
           <Route path={`/about`} exact element={<About />} />
           <Route path={`/courses`} exact element={<CourseHome />} />
           <Route path={`/team`} exact element={<Team />} />
+          <Route path={`/price`} exact element={<Price />} />
         </Routes>
       </BrowserRouter>
     </>

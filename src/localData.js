@@ -23,24 +23,24 @@ export const aboutWrapper = [
     cover:
       "https://img.icons8.com/external-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto/80/ffffff/external-graduation-education-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto.png",
     data: "3,000",
-    title: "SUCCESS STORIES",
+    title: "学習できる総時間",
   },
 
   {
     cover: "https://img.icons8.com/ios/80/ffffff/athlete.png",
-    data: "320",
-    title: "TRUSTED TUTORS",
+    data: "12",
+    title: "取り扱うジャンル数",
   },
   {
     cover:
       "https://img.icons8.com/external-outline-icons-maxicons/80/ffffff/external-calender-insurance-outline-outline-icons-maxicons.png",
     data: "1,000",
-    title: "SCHEDULES",
+    title: "在籍できる総日数",
   },
   {
     cover: "https://img.icons8.com/ios/80/ffffff/macbook-idea--v3.png",
-    data: "587",
-    title: "COURSES",
+    data: "50",
+    title: "平均講座数",
   },
 ];
 export const coursesCard = [

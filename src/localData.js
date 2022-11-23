@@ -391,26 +391,26 @@ export const blog = [
     cover: "../images/blog/b6.webp",
   },
 ];
-export const testimonal = [
+export const testimonial = [
   {
     id: 1,
-    name: "ROGER SCOTT",
-    post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    cover: "./images/testo/t1.webp",
+    name: "Y.Aさん",
+    post: "自営業",
+    desc: "自分でプログラミングができるようになったおかげで、自社サービスを立ち上げる際のサイトやアプリの開発に外注がいらなくなりました。",
+    cover: "./images/testimonial/avatar.png",
   },
   {
     id: 2,
-    name: "ROGER SCOTT",
-    post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    cover: "./images/testo/t2.webp",
+    name: "Y.Fさん",
+    post: "エンジニア職",
+    desc: "現職では主にシステム開発に携わっているのですが、Webに関わる勉強を始めました。今では身につけたWeb開発スキルで副業もこなしています。",
+    cover: "./images/testimonial/avatar.png",
   },
   {
     id: 3,
-    name: "ROGER SCOTT",
-    post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    cover: "./images/testo/t3.webp",
+    name: "S.Yさん",
+    post: "営業職",
+    desc: "もともとクリエイティブな仕事がしたいと思っていました。異業種ですが新しいスキルによって転職活動の選択肢が増えたと思います。",
+    cover: "./images/testimonial/avatar.png",
   },
 ];

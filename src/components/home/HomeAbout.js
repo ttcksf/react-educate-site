@@ -1,5 +1,6 @@
 import React from "react";
 import { coursesCard } from "../../localData";
+import OnlineCourses from "../allcourses/OnlineCourses";
 import Title from "../common/title/Title";
 
 const HomeAbout = () => {
@@ -61,6 +62,7 @@ const HomeAbout = () => {
           </div>
         </div>
       </section>
+      <OnlineCourses />
     </>
   );
 };

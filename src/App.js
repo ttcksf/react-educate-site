@@ -19,7 +19,7 @@ const App = () => {
           <Route path={`/courses`} exact element={<CourseHome />} />
           <Route path={`/team`} exact element={<Team />} />
           <Route path={`/price`} exact element={<Price />} />
-          <Route path={`/blog`} exact element={<Blog />} />
+          {/* <Route path={`/blog`} exact element={<Blog />} /> */}
         </Routes>
       </BrowserRouter>
     </>

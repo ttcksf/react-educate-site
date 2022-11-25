@@ -30,7 +30,7 @@ const Header = () => {
               <Link to="/price">プラン</Link>
             </li>
             <li>
-              <Link to="/journal">お知らせ</Link>
+              <Link to="/blog">お知らせ</Link>
             </li>
             <li>
               <Link to="/contact">お問合わせ</Link>

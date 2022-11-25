@@ -343,7 +343,7 @@ export const blog = [
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b1.webp",
+    cover: "../images/blog/b1.jpg",
   },
   {
     id: 2,
@@ -352,7 +352,7 @@ export const blog = [
     com: "5 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b2.webp",
+    cover: "../images/blog/b2.jpg",
   },
   {
     id: 3,
@@ -361,7 +361,7 @@ export const blog = [
     com: "10 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b3.webp",
+    cover: "../images/blog/b3.jpg",
   },
   {
     id: 4,
@@ -370,7 +370,7 @@ export const blog = [
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b4.webp",
+    cover: "../images/blog/b4.jpg",
   },
   {
     id: 5,
@@ -379,7 +379,7 @@ export const blog = [
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b5.webp",
+    cover: "../images/blog/b5.jpg",
   },
   {
     id: 6,
@@ -388,7 +388,7 @@ export const blog = [
     com: "12 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b6.webp",
+    cover: "../images/blog/b6.jpg",
   },
 ];
 export const testimonial = [

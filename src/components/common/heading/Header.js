@@ -29,9 +29,9 @@ const Header = () => {
             <li>
               <Link to="/price">プラン</Link>
             </li>
-            <li>
+            {/* <li>
               <Link to="/blog">お知らせ</Link>
-            </li>
+            </li> */}
             <li>
               <Link to="/contact">お問合わせ</Link>
             </li>

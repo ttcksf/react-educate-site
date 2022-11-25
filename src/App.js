@@ -4,6 +4,7 @@ import About from "./components/about/About";
 import CourseHome from "./components/allcourses/CourseHome";
 import Blog from "./components/blog/Blog";
 import Header from "./components/common/heading/Header";
+import Contact from "./components/contact/Contact";
 import Home from "./components/home/Home";
 import Price from "./components/price/Price";
 import Team from "./components/team/Team";
@@ -20,6 +21,7 @@ const App = () => {
           <Route path={`/team`} exact element={<Team />} />
           <Route path={`/price`} exact element={<Price />} />
           {/* <Route path={`/blog`} exact element={<Blog />} /> */}
+          <Route path={`/contact`} exact element={<Contact />} />
         </Routes>
       </BrowserRouter>
     </>

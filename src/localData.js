@@ -304,36 +304,36 @@ export const price = [
     desc: "UdemyやTechpitなどの学習サービス、AWSや GCPなどのサーバーを共同利用することができます。学習や個人開発にかかる費用をシェアすることで割安にプログラミングを楽しむことができます。",
   },
   // {
-  //   name: "ULTIMATE PLAN",
-  //   price: "149K",
-  //   desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+  //   name: "準備中",
+  //   price: "",
+  //   desc: "",
   // },
 ];
 export const faq = [
   {
-    title: "How to Enroll This Online Courses?",
-    desc: "This is the first item's accordion body. It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "学習はどのように進めていきますか？",
+    desc: "学習はリモートでの自習スタイルがメインになり宿題もありませんので、ご自身のペースで進めて頂けます。またビデオ会議での作業会も行っています。",
   },
   {
-    title: "Where It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "プログラミングをやったことがありませんが問題ないですか？",
+    desc: "全く問題ありません。コミュニティのコンセプトとして転職や独立をゴールにしていないため、プログラミン以外のジャンルも用意していますので誰でも参加頂けます。",
   },
   {
-    title: "How It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "人見知りですが馴染めますか？",
+    desc: "基本的に週１回のビデオ会議での作業会を除いて対面でのコミュニケーションはないのと、チャットをベースに会話していくので問題ないと思います。またチャットについても全体で会話しているものについては返信義務は持たせていないので、「情報収集だけ」という形でも大歓迎です。",
   },
   {
-    title: "How to Enroll This Online Courses?",
-    desc: "This is the first item's accordion body. It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "フリープラン以外の支払いについてはどのようになりますか？",
+    desc: "月１回のクレジットカードによる引き落としになります。初回のみクレジットカードの登録をしてもらえれば、２回目以降は自動で引き落としされます。再度フリープランに戻ることも可能ですので、有料プランについても気軽に参加してもらえればと思います。",
   },
   {
-    title: "Where It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+    title: "参加することでどれくらいのレベルまでスキルを習得できますか？",
+    desc: "基本的に転職や独立をゴールにしていないので、習得度についての保証はありません。社会人サークルのように楽しく気軽に交流しながらマイペースにスキルを身に付けていくことを大事にしています。",
   },
-  {
-    title: "How It is hidden by default, until the collapse?",
-    desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
-  },
+  // {
+  //   title: "How It is hidden by default, until the collapse?",
+  //   desc: "It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. It's also worth noting that just about any HTML can go within the .accordion-body, though the transition does limit overflow.",
+  // },
 ];
 export const blog = [
   {

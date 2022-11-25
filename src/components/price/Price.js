@@ -2,6 +2,7 @@ import React from "react";
 import Back from "../common/back/Back";
 import PriceCard from "./PriceCard";
 import "./Price.css";
+import Faq from "./Faq";
 
 const Price = () => {
   return (
@@ -12,6 +13,7 @@ const Price = () => {
           <PriceCard />
         </div>
       </section>
+      <Faq />
     </>
   );
 };
